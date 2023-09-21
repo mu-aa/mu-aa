@@ -28,4 +28,4 @@
 linux, window
 
 ## Devops
-docker, mobaXterm, KVM(cockpit)
+docker, mobaXterm(ssh), KVM(cockpit), gitea, 
