@@ -15,17 +15,15 @@
 ## DB
 <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
 
-## IDE
-<img src="https://img.shields.io/badge/intellij IDE-000000?style=flat-square&logo=intellijidea&logoColor=white"> <img src="https://img.shields.io/badge/eclipse IDE-2C2255?style=flat-square&logo=eclipseide&logoColor=white">
-
-## other
-<img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white"> <img src="https://img.shields.io/badge/gradle-02303A?style=flat-square&logo=gradle&logoColor=white">
-<img src="https://img.shields.io/badge/maven-C71A36?style=flat-square&logo=Apache Maven&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white">
-<img src="https://img.shields.io/badge/servlet-000000?style=flat-square&logoColor=white">
-
 ## OS
 linux, window
 
 ## Devops
 docker, mobaXterm(ssh), KVM(cockpit), gitea, 
+<img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white"> <img src="https://img.shields.io/badge/gradle-02303A?style=flat-square&logo=gradle&logoColor=white">
+<img src="https://img.shields.io/badge/maven-C71A36?style=flat-square&logo=Apache Maven&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/intellij IDE-000000?style=flat-square&logo=intellijidea&logoColor=white"> <img src="https://img.shields.io/badge/eclipse IDE-2C2255?style=flat-square&logo=eclipseide&logoColor=white">
+<img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=Notion&logoColor=white"> 
+
+## template engine
+<img src="https://img.shields.io/badge/thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white"> <img src="https://img.shields.io/badge/servlet-000000?style=flat-square&logoColor=white">
