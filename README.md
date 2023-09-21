@@ -23,3 +23,9 @@
 <img src="https://img.shields.io/badge/maven-C71A36?style=flat-square&logo=Apache Maven&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white">
 <img src="https://img.shields.io/badge/servlet-000000?style=flat-square&logoColor=white">
+
+## OS
+linux, window
+
+## Devops
+docker, mobaXterm, KVM(cockpit)
